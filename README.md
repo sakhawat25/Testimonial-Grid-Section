@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/](https://www.frontendmentor.io/solutions/css-testimonial-grid-section-awVj4KxGNA)
-- Live Site URL: [https://sakhawat25.github.io/Testimonial-Grid-Section/](https://sakhawat25.github.io/Testimonial-Grid-Section/)
+- [Solution](https://www.frontendmentor.io/solutions/css-testimonial-grid-section-awVj4KxGNA)
+- [Live Site](https://sakhawat25.github.io/Testimonial-Grid-Section/)
 
 ## My process
 
